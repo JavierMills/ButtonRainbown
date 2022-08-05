@@ -1,0 +1,86 @@
+{
+    "GruposDeCorreo":[
+        
+    {
+        "id": 1,
+        "Nombre_Grupo": "CONTRALORIA DE CREDITO",
+        "Region": "Metro_Norte",
+        "Nombre": "Ramiro Javier Martinez Cruz",
+        "Correo":"javier_bouncing@hotmail.com",
+        "Expediente":"C145552",
+        "Estatus_Grupo":0,
+        "Estatus_Correo": 1,
+        "Quitar_Usuario": ""
+      },
+      {
+        
+        "id": 2,
+        "Nombre_Grupo": "CONTRALORIA DE CREDITO",
+        "Region": "Metro_Norte",
+        "Nombre": "Ramiro Javier Martinez Cruz",
+        "Correo":"javier_bouncing@hotmail.com",
+        "Expediente":"C145552",
+        "Estatus_Grpo":0,
+        "Estatus_Correo": 1,
+        "Quitar_Usuario": ""
+      },
+      {
+        "id": 3,
+        "Nombre_Grupo": "CONTRALORIA DE CREDITO",
+        "Region": "Metro_Norte",
+        "Nombre": "Ramiro Javier Martinez Cruz",
+        "Correo":"javier_bouncing@hotmail.com",
+        "Expediente":"C145552",
+        "Estatus_Grpo":0,
+        "Estatus_Correo": 1,
+        "Quitar_Usuario": ""
+      },
+      {
+        "id": 4,
+        "Nombre_Grupo": "CONTRALORIA DE CREDITO",
+        "Region": "Metro_Norte",
+        "Nombre": "Ramiro Javier Martinez Cruz",
+        "Correo":"javier_bouncing@hotmail.com",
+        "Expediente":"C145552",
+        "Estatus_Grpo":0,
+        "Estatus_Correo": 1,
+        "Quitar_Usuario": ""
+      },
+      {
+        "id": 6,
+        "Nombre_Grupo": "CONTRALORIA DE CREDITO",
+        "Region": "Metro_Norte",
+        "Nombre": "Ramiro Javier Martinez Cruz",
+        "Correo":"javier_bouncing@hotmail.com",
+        "Expediente":"C145552",
+        "Estatus_Grpo":0,
+        "Estatus_Correo": 1,
+        "Quitar_Usuario": ""
+      },
+      {
+        "id": 7,
+        "Nombre_Grupo": "CONTRALORIA DE CREDITO",
+        "Region": "Metro_Norte",
+        "Nombre": "Ramiro Javier Martinez Cruz",
+        "Correo":"javier_bouncing@hotmail.com",
+        "Expediente":"C145552",
+        "Estatus_Grpo":0,
+        "Estatus_Correo": 1,
+        "Quitar_Usuario": ""
+      },
+      {
+        "id": 5,
+        "Nombre_Grupo": "CONTRALORIA DE CREDITO",
+        "Region": "Metro_Norte",
+        "Nombre": "Ramiro Javier Martinez Cruz",
+        "Correo":"javier_bouncing@hotmail.com",
+        "Expediente":"C145552",
+        "Estatus_Grpo":0,
+        "Estatus_Correo": 1,
+        "Quitar_Usuario": ""
+      }
+     
+   
+]
+    
+}
